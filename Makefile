@@ -13,4 +13,4 @@ $(JPEG): $(PNG)
 	convert $(PNG) $(JPEG)
 
 upload: all
-	rsync --progress -v -a --inplace $(PNG) $(SVG) *.jpg $(__HOMEPAGE_REMOTE_PATH)/evolution-of-girls-with-weapons/
+	rsync --progress -v -a --inplace $(PNG) $(SVG) *.jpg $(__HOMEPAGE_REMOTE_PATH)/nothing-sexier/
