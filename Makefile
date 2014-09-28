@@ -1,4 +1,4 @@
-SVG = NSA-publish-or-perish.svg
+SVG = Nothing-Sexier.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 
