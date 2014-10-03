@@ -1,16 +1,20 @@
 =encoding utf8
 
-=head1 Captioned Image - “Yo NSA, Publish or Perish!”
+=head1 Captioned Image - Friends T.V. Show “Nothing Sexier”
 
 =head2 About
 
 This repository contains the sources for a captioned image. To view or
 edit it type:
 
-    inkscape ./NSA-publish-or-perish.svg
+    inkscape ./Nothing-Sexier.svg
 
-Image taken from L<http://commons.wikimedia.org/wiki/File:Vitoria-University-Library-food-science-journals-4489.jpg>
-under CC-by-sa/GFDL.
+Image still ( C<Friends-S02E04--vlcsnap-2014-09-28-22h58m54s138.jpg>) taken
+from Episode S02E04 of the television show Friends.
+
+The final image can be viewed online here:
+
+L<http://www.shlomifish.org/nothing-sexier/>
 
 =head2 Creator
 
