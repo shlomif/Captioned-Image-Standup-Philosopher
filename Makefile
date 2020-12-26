@@ -1,4 +1,4 @@
-SVG = Nothing-Sexier.svg
+SVG = Standup-Philosopher.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 WEBP = $(SVG).webp
