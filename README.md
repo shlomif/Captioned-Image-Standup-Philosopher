@@ -1,10 +1,14 @@
-# Captioned Image - Friends T.V. Show “Nothing Sexier”
+# Captioned Image - "Standup Philosopher"
 
 ## Preview
 
 !["Standup Philosopher"](./Standup-Philosopher.svg.webp)
 
-Caption: As a woman, there is nothing sexier than a man who does not want to have sex.
+## Caption:
+
+- Occupation?
+- Standup Philosopher!
+- Oh! A bullshit artist!
 
 ## About
 
