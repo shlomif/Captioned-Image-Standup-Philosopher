@@ -2,7 +2,7 @@
 
 ## Preview
 
-![As a woman, there is nothing sexier than a man who does not want to have sex](./Nothing-Sexier.svg.webp)
+!["Standup Philosopher"](./Standup-Philosopher.svg.webp)
 
 Caption: As a woman, there is nothing sexier than a man who does not want to have sex.
 
