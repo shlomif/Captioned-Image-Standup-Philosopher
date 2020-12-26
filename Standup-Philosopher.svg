@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -15,8 +13,8 @@
    height="1143.8938"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Nothing-Sexier.svg">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Standup-Philosopher.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -27,16 +25,6 @@
          offset="0"
          id="stop3824" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3822"
-       id="linearGradient2992"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.67478613,0,0,0.67478613,-397.11118,859.36683)"
-       x1="-497.22098"
-       y1="-282.19836"
-       x2="-357.72879"
-       y2="-282.19836" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -46,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.34309896"
-     inkscape:cx="1008.2125"
+     inkscape:cx="995.09675"
      inkscape:cy="716.89903"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,7 +47,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -79,7 +68,7 @@
      transform="translate(802.49823,36.831635)">
     <image
        sodipodi:absref="/home/shlomif/Docs/homepage/homepage/trunk--clones/Captioned-Image-Standup-Philosopher/A-Standup-Philosopher-tl4VD8uvgec--vlcsnap-2020-12-26-16h57m39s657.png"
-       xlink:href="./A-Standup-Philosopher-tl4VD8uvgec--vlcsnap-2020-12-26-16h57m39s657.png"
+       xlink:href="A-Standup-Philosopher-tl4VD8uvgec--vlcsnap-2020-12-26-16h57m39s657.png"
        y="-36.831635"
        x="-802.49823"
        id="image3068"
@@ -87,35 +76,45 @@
        width="2033.5889" />
     <text
        xml:space="preserve"
-       style="font-size:97.16920471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2992);fill-opacity:1;stroke:#000000;stroke-width:6.34298944;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
-       x="-732.57629"
-       y="678.76855"
-       id="text3050"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:200px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffffff;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-680.6701"
+       y="622.80359"
+       id="text19"><tspan
          sodipodi:role="line"
-         id="tspan3052"
-         x="-732.57629"
-         y="678.76855"
-         style="font-size:97.16920471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2992);fill-opacity:1;stroke:#000000;stroke-width:6.34298944;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'">As a woman,</tspan><tspan
+         id="tspan17"
+         x="-680.6701"
+         y="622.80359">OCCUPATION?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:96px;line-height:200px;font-family:Arial;-inkscape-font-specification:'Arial Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="272.33075"
+       y="678.01312"
+       id="text846"><tspan
          sodipodi:role="line"
-         x="-732.57629"
-         y="800.23004"
-         style="font-size:97.16920471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2992);fill-opacity:1;stroke:#000000;stroke-width:6.34298944;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
-         id="tspan2995">there is nothing sexier</tspan><tspan
+         id="tspan844"
+         x="272.33075"
+         y="678.01312" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:200px;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       x="203.42535"
+       y="605.78387"
+       id="text850"
+       transform="translate(-422,204.01788)"><tspan
          sodipodi:role="line"
-         x="-732.57629"
-         y="921.69159"
-         style="font-size:97.16920471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2992);fill-opacity:1;stroke:#000000;stroke-width:6.34298944;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
-         id="tspan2997">than a man who doesn't</tspan><tspan
+         id="tspan848"
+         x="203.42535"
+         y="605.78387">STAND-UP PHILOSOPHER!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:200px;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       x="-588.51575"
+       y="894.82343"
+       id="text854"
+       transform="translate(-92.15436,72)"><tspan
          sodipodi:role="line"
-         x="-732.57629"
-         y="1043.1531"
-         style="font-size:97.16920471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2992);fill-opacity:1;stroke:#000000;stroke-width:6.34298944;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
-         id="tspan2999">want to have sex.</tspan><tspan
-         sodipodi:role="line"
-         x="-732.57629"
-         y="1164.6146"
-         style="font-size:97.16920471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2992);fill-opacity:1;stroke:#000000;stroke-width:6.34298944;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
-         id="tspan3836" /></text>
+         id="tspan852"
+         x="-588.51575"
+         y="894.82343">OH! A BULLSHIT ARTIST!</tspan></text>
   </g>
 </svg>
