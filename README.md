@@ -6,23 +6,24 @@
 
 ## Caption:
 
-- Occupation?
-- Standup Philosopher!
-- Oh! A bullshit artist!
+- **Bea:** Occupation?
+- **Mel:** Standup Philosopher!
+- **Bea:** Oh! A bullshit artist!
 
 ## About
 
 This repository contains the sources for a captioned image. To view or
 edit it type:
 
-    inkscape ./Nothing-Sexier.svg
+    inkscape ./Standup-Philosopher.svg
 
-Image still ( `Friends-S02E04--vlcsnap-2014-09-28-22h58m54s138.jpg`) taken
-from Episode S02E04 of the television show Friends.
+Image still ( `A-Standup-Philosopher-tl4VD8uvgec--vlcsnap-2020-12-26-16h57m39s657.png` ) taken
+from https://www.youtube.com/watch?v=tl4VD8uvgec ( "Mel Brooks history of the world part 1
+thanks Bea you will be missed" )
 
 The final image can be viewed online here:
 
-https://www.shlomifish.org/nothing-sexier/
+https://www.shlomifish.org/humour/image-macros/
 
 ## Creator
 
