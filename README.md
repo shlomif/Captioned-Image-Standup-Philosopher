@@ -1,13 +1,13 @@
-# Captioned Image - "Standup Philosopher"
+# Captioned Image - "Stand-up Philosopher"
 
 ## Preview
 
-!["Standup Philosopher"](./Standup-Philosopher.svg.webp)
+!["Stand-up Philosopher"](./Standup-Philosopher.svg.webp)
 
 ## Caption:
 
 - **Bea:** Occupation?
-- **Mel:** Standup Philosopher!
+- **Mel:** Stand-up Philosopher!
 - **Bea:** Oh! A bullshit artist!
 
 ## About
