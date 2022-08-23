@@ -13,8 +13,9 @@
 import re
 import sys
 
-delta = 30.0
+delta = -30.0
 starty = 60.0
+starty = -2 * delta
 ys = [None]
 
 y = starty + 0
